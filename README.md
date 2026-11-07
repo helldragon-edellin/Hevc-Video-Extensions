@@ -180,3 +180,6 @@ This repository serves as the official landing page for HEVC Video Extensions. T
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of HEVC Video Extensions today!**
+
+---
+**Last updated:** 2026-11-07 15:24:41 UTC
